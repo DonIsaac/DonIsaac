@@ -2,7 +2,7 @@
 
 My name is Don, and welcome to my GitHub! I'm a Software Developer and Sociologist who loves high-performance build tooling and programming languages.
 
-I'm currently a maintainer of [oxc](https://github.com/oxc-project/oxc). Feel free to check out my repos to see some of the other things I've built. Interested in reaching out? Send me an invite or message on [Linkedin](https://www.linkedin.com/in/donaldisaac/).
+I'm currently a maintainer of [oxc](https://github.com/oxc-project/oxc). Feel free to check out my repos to see some of the other things I've built. Interested in reaching out? Send me an invite or message on [Linkedin](https://www.linkedin.com/in/donaldisaac/). Interested in supporting what I do? You can help support me by becoming a [sponsor](https://github.com/sponsors/DonIsaac).
 <!--
 **DonIsaac/DonIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
